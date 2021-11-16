@@ -4,7 +4,7 @@ Statistical Feature Extraction from Stock df.
 Data used:  GOOGL stock data from '2010-06-21' - '2020-06-12'
             Correlated Assets of JPM, MS, NYSE, BSE, HANGSENG, USD_GBP, LIBOR_USD, VIX,	NIKKEI, NASDAQ -> INCLUDED
 
-@author: irfanthayyil
+@author: aayshaanserbabu
 """
 
 import pandas as pd
